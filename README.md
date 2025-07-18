@@ -1,0 +1,1 @@
+# grayscale-entropy-index
